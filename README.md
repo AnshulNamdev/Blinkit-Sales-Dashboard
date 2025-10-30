@@ -86,9 +86,7 @@ An interactive filter panel allows users to filter data by:
   Dynamic filters for detailed analysis
   KPI cards for quick metric overview
   Consistent Blinkit-themed design (Yellow & Green)
+  Trendline, donut, and bar chart visualizations
 
   # Picture Preview
-  
-
-
-Trendline, donut, and bar chart visualizations
+  https://github.com/AnshulNamdev/Blinkit-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
